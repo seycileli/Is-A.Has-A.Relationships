@@ -1,0 +1,11 @@
+
+public class Role {
+	
+	/**
+	 * Everything within this class, can be accessible via the Users class
+	 * Except for Final and Static methods
+	 * 
+	 */
+	
+	String name;
+}
